@@ -1,3 +1,10 @@
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * Program to find the fibonacci number.
+ *
+ *
+ */
 import java.util.Scanner;
 import java.io.*;
 public class Fibonacci {

@@ -1,3 +1,11 @@
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * Program to calculate the sum of first n natural numbers which
+are divisible by 3 or 5. 
+ *
+ *
+ */
 import java.util.Scanner;
 
 public class SumOfNumbers {

@@ -1,4 +1,10 @@
-import java.util.Scanner;
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * Program to find if given number is power of .
+ *
+ *
+ */import java.util.Scanner;
 
 public class PowerofTwo {
 

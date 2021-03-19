@@ -1,3 +1,11 @@
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * Program to find the sum of the cubes of the digits of an n digit number.
+ * 
+ *
+ */
+ 
 import java.util.Scanner;
 import java.io.*;
 public class DigitCube {

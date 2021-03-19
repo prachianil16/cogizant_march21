@@ -1,3 +1,11 @@
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * Program to find the difference between the sum of the squares and the
+square of the sum of the first n natural numbers.
+ * 
+ *
+ */
 import java.util.Scanner;
 
 public class SquareDifference {

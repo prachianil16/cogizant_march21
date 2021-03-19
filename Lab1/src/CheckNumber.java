@@ -1,3 +1,11 @@
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * Program to check if a number is an increasing number
+ * 
+ *
+ */
+
 import java.util.Scanner;
 
 public class CheckNumber {

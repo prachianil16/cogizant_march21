@@ -1,3 +1,10 @@
+/**Lab1 
+ * Name: Prachi Anil Biradar
+ * Date:18/03/2021
+ * java program that simulates a traffic light. 
+ * 
+ *
+ */
 import java.util.Scanner;
 
 public class TrafficLight {
